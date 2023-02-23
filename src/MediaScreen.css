@@ -1,0 +1,65 @@
+/* Home Page Media Screen */
+@media screen and (max-width: 1400px) {
+    .price-card,
+    .col-md-4,
+    .rounded-3 {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .price-card,
+    .col-md-4,
+    .rounded-3 {
+        margin-top: 10px;
+    }
+}
+
+/* Honymoon Page Media Screen */
+@media screen and (max-width: 1400px) {
+    .text-muted {
+        --bs-text-opacity: 1;
+        color: #6c757d !important;
+        margin: 8px 0px 0px 20px;
+        position: relative;
+        left: 15px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .text-muted {
+        --bs-text-opacity: 1;
+        color: #6c757d !important;
+        margin: 15px 0px 0px 20px;
+        position: relative;
+        left: 0px;
+        font-size: 15px;
+    }
+}
+
+/* MainFooter Media Screen */
+@media screen and (max-width: 1400px) {
+    .perfectsize {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .perfectsize {
+        width: 100%;
+    }
+}  
+
+/* latestHotel Media Screen */
+@media screen and (max-width: 1400px) {
+    .drop-menu {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .drop-menu {
+        width: 100%;
+    }
+}  
